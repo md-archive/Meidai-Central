@@ -1,0 +1,48 @@
+org.md_archive.meidai.central.composeApp-activity-ktx-1.9.2-0 /home/alis202x/.gradle/caches/8.9/transforms/01ad06945091a11346ac32a3f1261e64/transformed/activity-ktx-1.9.2/res
+org.md_archive.meidai.central.composeApp-runtime-saveable-release-1 /home/alis202x/.gradle/caches/8.9/transforms/09e2de96905cf3f0c4c6b32e010e521a/transformed/runtime-saveable-release/res
+org.md_archive.meidai.central.composeApp-runtime-release-2 /home/alis202x/.gradle/caches/8.9/transforms/114c2b0675a2f73b99171f2281de8053/transformed/runtime-release/res
+org.md_archive.meidai.central.composeApp-core-ktx-1.13.0-3 /home/alis202x/.gradle/caches/8.9/transforms/1afc855997171bbbc3d466ec0914f3c1/transformed/core-ktx-1.13.0/res
+org.md_archive.meidai.central.composeApp-lifecycle-viewmodel-savedstate-2.8.4-4 /home/alis202x/.gradle/caches/8.9/transforms/21990acd931a701efa71147fe8f1ce65/transformed/lifecycle-viewmodel-savedstate-2.8.4/res
+org.md_archive.meidai.central.composeApp-material-release-5 /home/alis202x/.gradle/caches/8.9/transforms/26a2cbc7669e4622d7c8a26a166a7cb6/transformed/material-release/res
+org.md_archive.meidai.central.composeApp-ui-geometry-release-6 /home/alis202x/.gradle/caches/8.9/transforms/3a1545ecb39a7f928ea4e4fc3f449148/transformed/ui-geometry-release/res
+org.md_archive.meidai.central.composeApp-emoji2-1.3.0-7 /home/alis202x/.gradle/caches/8.9/transforms/3e521ccbff0dca970c8b99543292174c/transformed/emoji2-1.3.0/res
+org.md_archive.meidai.central.composeApp-lifecycle-viewmodel-ktx-2.8.4-8 /home/alis202x/.gradle/caches/8.9/transforms/5100ecc7a445516c3a91d413879c1ac5/transformed/lifecycle-viewmodel-ktx-2.8.4/res
+org.md_archive.meidai.central.composeApp-ui-unit-release-9 /home/alis202x/.gradle/caches/8.9/transforms/528d657a6c9a6c47004daf32781d44ce/transformed/ui-unit-release/res
+org.md_archive.meidai.central.composeApp-lifecycle-livedata-core-2.8.4-10 /home/alis202x/.gradle/caches/8.9/transforms/599aa852ad68b2c5c2b59843bf8c40af/transformed/lifecycle-livedata-core-2.8.4/res
+org.md_archive.meidai.central.composeApp-savedstate-1.2.1-11 /home/alis202x/.gradle/caches/8.9/transforms/5cc85b2ddb52577cae00379962dc0663/transformed/savedstate-1.2.1/res
+org.md_archive.meidai.central.composeApp-material-ripple-release-12 /home/alis202x/.gradle/caches/8.9/transforms/5cf3ee18a9dd04136ce6ea1e049aa69e/transformed/material-ripple-release/res
+org.md_archive.meidai.central.composeApp-activity-compose-1.9.2-13 /home/alis202x/.gradle/caches/8.9/transforms/651c81d02600ae3f6777966254210266/transformed/activity-compose-1.9.2/res
+org.md_archive.meidai.central.composeApp-animation-core-release-14 /home/alis202x/.gradle/caches/8.9/transforms/6655fd9a62262cf49daff17ac3af0296/transformed/animation-core-release/res
+org.md_archive.meidai.central.composeApp-core-1.13.0-15 /home/alis202x/.gradle/caches/8.9/transforms/6787ec87646b9414648f308475df8768/transformed/core-1.13.0/res
+org.md_archive.meidai.central.composeApp-ui-tooling-preview-release-16 /home/alis202x/.gradle/caches/8.9/transforms/76c15df983ec96e24650ca428527507b/transformed/ui-tooling-preview-release/res
+org.md_archive.meidai.central.composeApp-ui-tooling-data-release-17 /home/alis202x/.gradle/caches/8.9/transforms/7e32d370e295216063c2923c88aab0ba/transformed/ui-tooling-data-release/res
+org.md_archive.meidai.central.composeApp-lifecycle-process-2.8.4-18 /home/alis202x/.gradle/caches/8.9/transforms/7ef16e9ed6644dd79510b4a9ea2fce85/transformed/lifecycle-process-2.8.4/res
+org.md_archive.meidai.central.composeApp-core-runtime-2.2.0-19 /home/alis202x/.gradle/caches/8.9/transforms/8077d1899a8be7e428a745803598c482/transformed/core-runtime-2.2.0/res
+org.md_archive.meidai.central.composeApp-profileinstaller-1.3.1-20 /home/alis202x/.gradle/caches/8.9/transforms/859c2a6c670b268cf69f39a82c00cd6a/transformed/profileinstaller-1.3.1/res
+org.md_archive.meidai.central.composeApp-ui-tooling-release-21 /home/alis202x/.gradle/caches/8.9/transforms/8eadb3eb14570c46bf931b344386f774/transformed/ui-tooling-release/res
+org.md_archive.meidai.central.composeApp-startup-runtime-1.1.1-22 /home/alis202x/.gradle/caches/8.9/transforms/925cb880fb6c02a286358c55c8f52606/transformed/startup-runtime-1.1.1/res
+org.md_archive.meidai.central.composeApp-animation-release-23 /home/alis202x/.gradle/caches/8.9/transforms/958a820c43c9a2fbd1ff632e18602a51/transformed/animation-release/res
+org.md_archive.meidai.central.composeApp-foundation-release-24 /home/alis202x/.gradle/caches/8.9/transforms/961e638a135e32d6251bc97b8bb6eafe/transformed/foundation-release/res
+org.md_archive.meidai.central.composeApp-savedstate-ktx-1.2.1-25 /home/alis202x/.gradle/caches/8.9/transforms/99730a3f404089e30da0c5fd0e8b9a08/transformed/savedstate-ktx-1.2.1/res
+org.md_archive.meidai.central.composeApp-lifecycle-runtime-compose-release-26 /home/alis202x/.gradle/caches/8.9/transforms/9b250736469018f2e4bed0d57a080d7c/transformed/lifecycle-runtime-compose-release/res
+org.md_archive.meidai.central.composeApp-annotation-experimental-1.4.0-27 /home/alis202x/.gradle/caches/8.9/transforms/9b426ea54ef30d2bfd35e4599626d0ae/transformed/annotation-experimental-1.4.0/res
+org.md_archive.meidai.central.composeApp-ui-release-28 /home/alis202x/.gradle/caches/8.9/transforms/a3e903a5752a0d04128699f697ad294b/transformed/ui-release/res
+org.md_archive.meidai.central.composeApp-customview-poolingcontainer-1.0.0-29 /home/alis202x/.gradle/caches/8.9/transforms/a851e98850a9cbdd11f5cdb29c73e8f0/transformed/customview-poolingcontainer-1.0.0/res
+org.md_archive.meidai.central.composeApp-lifecycle-runtime-release-30 /home/alis202x/.gradle/caches/8.9/transforms/ae617011bc315a32f0b8a64390fdd2c4/transformed/lifecycle-runtime-release/res
+org.md_archive.meidai.central.composeApp-ui-text-release-31 /home/alis202x/.gradle/caches/8.9/transforms/bca3d43e28386caafb681f6d5f715b5b/transformed/ui-text-release/res
+org.md_archive.meidai.central.composeApp-activity-1.9.2-32 /home/alis202x/.gradle/caches/8.9/transforms/bde27a10fb821ad6d5789b0a2024b051/transformed/activity-1.9.2/res
+org.md_archive.meidai.central.composeApp-lifecycle-runtime-ktx-release-33 /home/alis202x/.gradle/caches/8.9/transforms/d07b326d169f341739575a42a94b3e7f/transformed/lifecycle-runtime-ktx-release/res
+org.md_archive.meidai.central.composeApp-ui-util-release-34 /home/alis202x/.gradle/caches/8.9/transforms/e5a3214cee3971677c769b9bd56e3c91/transformed/ui-util-release/res
+org.md_archive.meidai.central.composeApp-ui-graphics-release-35 /home/alis202x/.gradle/caches/8.9/transforms/ecc4d5d79dfe98a9b281c9dd58701b5b/transformed/ui-graphics-release/res
+org.md_archive.meidai.central.composeApp-lifecycle-viewmodel-release-36 /home/alis202x/.gradle/caches/8.9/transforms/f2844b9601b983c76f6f2a9bd0a66694/transformed/lifecycle-viewmodel-release/res
+org.md_archive.meidai.central.composeApp-foundation-layout-release-37 /home/alis202x/.gradle/caches/8.9/transforms/f7654b01b2aa895380c7834e15568e36/transformed/foundation-layout-release/res
+org.md_archive.meidai.central.composeApp-material-icons-core-release-38 /home/alis202x/.gradle/caches/8.9/transforms/fbfe54dbed25b1d135ee2162e14605d0/transformed/material-icons-core-release/res
+org.md_archive.meidai.central.composeApp-pngs-39 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/build/generated/res/pngs/debug
+org.md_archive.meidai.central.composeApp-resValues-40 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/build/generated/res/resValues/debug
+org.md_archive.meidai.central.composeApp-packageDebugResources-41 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/build/intermediates/incremental/debug/packageDebugResources/merged.dir
+org.md_archive.meidai.central.composeApp-packageDebugResources-42 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/build/intermediates/incremental/debug/packageDebugResources/stripped.dir
+org.md_archive.meidai.central.composeApp-debug-43 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/build/intermediates/merged_res/debug/mergeDebugResources
+org.md_archive.meidai.central.composeApp-androidDebug-44 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/src/androidDebug/res
+org.md_archive.meidai.central.composeApp-androidMain-45 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/src/androidMain/res
+org.md_archive.meidai.central.composeApp-debug-46 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/src/debug/res
+org.md_archive.meidai.central.composeApp-main-47 /home/alis202x/Documents/Meidai_DevCenter/WebApps/Platform Applications/Meidai Central/composeApp/src/main/res
